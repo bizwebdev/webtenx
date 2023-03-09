@@ -1,0 +1,7 @@
+Please find our analysis result below.
+In order to make your website functional again you need to change file permissions at least to 604 after cleaning up.
+
+The following files have caused an unusual email sending behavior.
+Please check whether the files serve a necessary function for your website. If they are not necessary, please delete them.
+~/contact.php
+
